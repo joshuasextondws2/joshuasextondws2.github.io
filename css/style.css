@@ -1,0 +1,285 @@
+html p{
+	font-family: "PT serif" ;
+}
+
+html h3, h2{
+	font-family: "Futura";
+}
+
+#mainpageImage{
+	background-image: url("../images/redCurtains.jpg");
+	height: 20vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width:100%;
+}
+
+h1{
+	height:100px;
+	width:100px;
+	margin-right:auto;
+	margin-left:auto;
+	padding-top: 2rem;
+}
+
+#navbar{
+	background-color: #332F2F;
+}
+
+li a{
+	color: #CBBfBf;
+}
+
+li a:hover{
+	color: #e74f4f;
+}
+
+#home a{
+	color: #e74f4f;
+}
+
+#about{
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	background-image: url("../images/about.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	margin-bottom: 4rem;
+}
+
+#about h2{
+	color: #449f4b;
+	font-family: "Futura";
+	padding-bottom: 1rem;
+}
+
+#about p{
+	color: white;
+	font-family: "PT Serif";
+	}
+
+#mainMenu img{
+	height: 300px;
+	width: 400px;
+}
+
+#mainMenu h2{
+	padding-bottom: 2rem;
+	color: #449f4b;
+	font-family: "Futura";
+}
+
+#signupbutton{
+ 	background-color: #449f4b;
+ 	margin-top: 5rem;
+ 	width: 10rem;
+ 	margin-bottom: 5rem;
+ }
+ 
+ #signupbutton a{
+ 	color: white;
+ }
+ 
+ #footermain{
+ 	height: 6rem;
+ 	color: white;
+ 	background-color: #332F2F; 
+ 	margin-bottom: 0;
+ 	list-style: none;
+ }
+ 
+#menulogo{
+	height: 120px;
+	width: 120px;
+	margin-right:auto;
+	margin-left:auto;
+	padding-top: 2rem;
+	margin-bottom: 5rem;
+}
+
+#coffeeheader{
+	background-image: url("../images/header.jpg");
+	background-size:100%;
+	background-repeat: no-repeat;
+	height:18%;
+	margin-bottom: 0;
+}
+
+#navmenu{
+	background-color: #332F2F;
+	font-size: 1.5rem;
+	margin-bottom: 3rem;
+}
+
+#coffeehome a{
+	color: #e74f4f;
+}
+
+#menucoffee img{
+	height: 300px;
+	width: 400px;
+}
+
+#cocktailheader{
+	background-image: url("../images/header.jpg");
+	background-size:100%;
+	background-repeat: no-repeat;
+	height:18%;
+	margin-bottom: 0;
+}
+
+#cocktailhome a{
+	color: #e74f4f;
+}
+
+#menucocktail img{
+	height: 300px;
+	width: 400px;
+}
+
+#pinhome a{
+	color: #e74f4f;
+}
+
+#merchPins article{
+	height: 200px;
+	width: 400px;
+	margin-bottom: 2rem;
+}
+
+#merchPins h3{
+	text-decoration: underline;
+	font-size: 2rem;
+	color: #e74f4f;
+	padding-bottom: 1rem;
+}
+
+#mughome a{
+	color: #e74f4f;
+}
+
+#shirthome a{
+	color: #e74f4f;
+}
+
+#abouthome a{
+	color: #e74f4f;
+}
+
+#signuphome a{
+	color: #e74f4f;
+}
+
+#aboutpage{
+	padding-top: 2rem;
+	background-image: url("../images/about.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-bottom: 2rem;
+}
+
+#aboutpage h2{
+	color: #449f4b;
+	padding-bottom: 2rem;
+	padding-left: 1rem;
+}
+
+#aboutpage p:nth-child(2){
+	color: white;
+	padding-top: 6rem;
+	padding-left: 1rem;
+}
+
+#aboutpage p{
+	color: white;
+	padding-left: 1rem;
+	padding-bottom: 3rem;
+}
+
+#contact{
+	padding-top: 2rem;
+	background-image: url("../images/about.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-bottom: 2rem;
+}
+
+#contact h2{
+	color: #449f4b;
+	font-family: "Futura";
+	padding-left: 1rem;
+}
+
+#contact p{
+	color: white;
+	font-family: "PT Serif";
+	padding-left: 1rem;
+	padding-bottom: 2rem;
+}
+
+#contact p a{
+	color: white;
+}
+
+#contact p a:hover{
+	color: #e74f4f;
+}
+
+#contact article{
+	margin-bottom: 2rem;
+}
+
+.navbar-nav{
+	height:1rem;
+	font: 8px;
+}
+
+#create{
+	margin-bottom: 8rem;
+	background-color: #449f4b;
+	width: 16rem;
+	color: white;
+}
+
+#signup h2{
+	width: 230px;
+	padding-bottom: 2rem;
+	color: red;
+}
+
+#signup p{
+	width: 100px;
+	padding-top: 6rem;
+	color: #449f4b;
+	margin-bottom: 0;
+}
+
+#signup p a{
+	color: #449f4b;
+}
+
+
+#insta{
+	padding-top: 20px;
+	height: 50px;
+	width: 50px;
+}
+
+#twit{
+	padding-top: 20px;
+	height: 50px;
+	width: 50px;
+	margin-left:0;
+}
+
+#sitename{
+	padding-top: 20px;
+	
+	font-family:"Blacklisted";
+	padding-left:0px;
+	margin-left: 0;
+}
+
+
+
+
